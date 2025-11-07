@@ -1,0 +1,4 @@
+Django>=4.2
+pandas>=2.1
+pymysql>=1.1
+openpyxl>=3.1
