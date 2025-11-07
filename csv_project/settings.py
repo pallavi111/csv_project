@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'csv_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'csv_project(2)',
+        'NAME': 'test_new',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': 'localhost',
